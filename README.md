@@ -3,6 +3,8 @@ You're familiar with routing and Rails, but what about accomplishing the same st
 
 React Router is a popular library and has a tutorial [here](https://reactrouter.com/en/main/start/tutorial), so let's check it out and see what we can make!
 
+Deployed with Netlify! Check it out [here](https://inspiring-granita-0107bc.netlify.app/)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
